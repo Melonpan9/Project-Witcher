@@ -1,0 +1,16 @@
+{
+	"name": "Ithlinne's Prophecy Server Mod",
+	"description": "A server mod utilized for a Conan Exiles server- please ask for permission before using.",
+	"changeNote": "Blocked additional feats/items/thralls from mods,\nBracelet Removal",
+	"author": "Drag",
+	"authorUrl": "https://steamcommunity.com/id/Dragarien/",
+	"versionMajor": 1,
+	"versionMinor": 1,
+	"versionBuild": 8,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2707013760",
+	"steamVisibility": 0,
+	"folderName": "projectwitcherserver",
+	"revisionNumber": 348928,
+	"snapshotId": 32447
+}
